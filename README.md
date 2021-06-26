@@ -1,2 +1,2 @@
 # kafeneproject
-kafene project Demo [Link](https://tunikipatinaveen.github.io/certificationproject/).
+kafene project Demo [Link](https://tunikipatinaveen.github.io/kafene-web-app/).
